@@ -29,7 +29,7 @@ Teste-Analytics-Jhennife-de-Souza-Vicente/
    -> consultas_sql.sql
 ├── docs/               # relatório final
    -> relatorio_insights.md
-└── README.md           # este documento
+└── README.md           # arquivo md
 
 
 ## ⚙️ Como executar ?
@@ -60,6 +60,15 @@ Teste-Analytics-Jhennife-de-Souza-Vicente/
    ```bash
    python scripts/Teste-Analytics.py
    ```
+   ---
+## Consultas SQL
+
+O arquivo **`consultas_sql.sql`** contém as queries solicitadas na Parte 2 do teste:
+
+1. **Total de vendas por produto**: retorna o nome do produto, categoria e a soma total das vendas (Quantidade × Preço), ordenando do maior para o menor valor.
+2. **Produtos com menor venda em junho/2024**: identifica os produtos com menor volume de vendas nesse mês.
+
+   > Observação: como o dataset simulado cobre apenas o ano de 2023, essa consulta não retorna registros, mas foi implementada para demonstrar a lógica solicitada.
 
 ---
 
