@@ -1,11 +1,11 @@
-# Teste de Estagiário em Analytics — Quod #
+# Teste de Estagiário em Analytics — Quod 
 
 Este repositório contém a solução completa do **Teste para Estagiário em Analytics**.
 A implementação foi realizada em **Python 3.10**, utilizando bibliotecas como `pandas`, `numpy` e `matplotlib`.
 
 ---
 
-## 📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 
 ```
 Teste_Analytics_NomeSobrenome/
