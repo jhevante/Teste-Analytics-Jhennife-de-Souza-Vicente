@@ -32,7 +32,7 @@ Teste_Analytics_NomeSobrenome/
 └── README.md           # este documento
 
 
-## ⚙️ Como executar
+## ⚙️ Como executar ?
 
 1. Clone este repositório:
 
