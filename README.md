@@ -8,7 +8,7 @@ A implementação foi realizada em **Python 3.10**, utilizando bibliotecas como 
 # 📂 Estrutura do Repositório
 
 ```
-Teste_Analytics_NomeSobrenome/
+Teste-Analytics-Jhennife-de-Souza-Vicente/
 ├── data/               # datasets simulados, limpos e resultados de queries
     -> dataset_raw.csv
     -> data_clean.csv
